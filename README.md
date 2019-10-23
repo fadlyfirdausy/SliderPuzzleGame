@@ -5,9 +5,11 @@ Sistem permainan nya sangat mudah, pemain diberikan waktu sebanyak 2 menit untuk
 
 # Tampilan Menu Utama
 pada menu utama kami membuat 2 pilihan, yaitu pilihan bermain dan pilihan keluar dari permainan.
+![Main Menu](https://imgur.com/ry5rbOk)
 
 # Tampilan pada saat Bermain
 seperti slider puzzle games lainnya, ini memiliki 15 angka yang teracak dan 1 posisi kosong pada matrix 4x4.
+![Play](https://imgur.com/V5O8tWl)
 
  
 # Dibuat Oleh :
