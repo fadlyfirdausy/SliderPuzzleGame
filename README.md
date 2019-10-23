@@ -11,6 +11,13 @@ pada menu utama kami membuat 2 pilihan, yaitu pilihan bermain dan pilihan keluar
 seperti slider puzzle games lainnya, ini memiliki 15 angka yang teracak dan 1 posisi kosong pada matrix 4x4.
 ![play](https://i.imgur.com/V5O8tWl.png)
 
+# Tampilan pada saat kita menang
+jika kita sudah selesai mengurutkan angka dari 1-15, seperti gambar dibawah ini tampilan nya.
+![Finish](https://i.imgur.com/ksnGi1A.png)
+
+# Tampilan pada exit
+jika kita ingin selesaikan game, pilih exit dan akan seperti gambar dibawah
+![Exit](https://i.imgur.com/eaCUqMi.png)
  
 # Dibuat Oleh :
 
